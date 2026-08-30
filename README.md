@@ -15,7 +15,7 @@
 </div>
 <br/>
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> About Me
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
 - Hey! I'm a software developer focused on turning complex problems into elegant solutions.
 - When I'm not crafting a Next.js frontend, I'm usually building distributed microservices.
 - I've built everything from generative AI platforms (**AppForge**) to real-time dashboards and scalable backends (**StreamMart**).
@@ -25,10 +25,9 @@
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="35px"> Tech Stack
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,ts,aws,react,nextjs,tailwind,nodejs,postgres,supabase,redis,docker,kubernetes,kafka,githubactions&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,ts,gsap,react,nextjs,tailwind,nodejs,postgres,supabase,redis,docker,kubernetes,kafka,githubactions&theme=dark" alt="Skill Icons" />
   </a>
 </div>
-
 
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px"> Let's Connect
 I'm always open to discussing new projects, exchanging ideas on system architecture, or just geeking out over tech. 
