@@ -30,7 +30,7 @@
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Envelope.webp" width="35px"> Let's Connect
+## <img src="https://user-images.githubusercontent.com/74038190/235294015-46f345bd-cbab-47f9-8da3-5cf39f863266.gif" width="35px"> Let's Connect
 I'm always open to discussing new projects, exchanging ideas on system architecture, or just geeking out over tech. 
 Feel free to reach out to me at **[vipinkaushik20771041@gmail.com](mailto:vipinkaushik20771041@gmail.com)**!
 
