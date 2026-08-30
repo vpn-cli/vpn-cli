@@ -6,10 +6,11 @@
 </picture>
 
 ## 👨‍💻 About Me
-- 🚀 I'm a software engineer specializing in **Next.js, Microservices, and Generative AI**.
-- 🛠️ I build complex platforms like **AppForge** (a prompt-to-software AI builder), **StreamMart** (event-driven robust microservices architecture), and real-time dashboards like **Sportz**.
-- 🧠 I have a deep interest in **Data Structures & Algorithms** and **Competitive Programming** (C++).
-- ⚡ In my free time, I explore real-time robust systems, caching strategies, and scalable architectures utilizing Kafka, Docker, and Kubernetes.
+- � Hey! I'm a software developer who loves turning complex problems into elegant, user-friendly solutions.
+- 🛠️ When I'm not obsessing over crafting the perfect Next.js frontend, you'll probably find me knee-deep in distributed microservices or fine-tuning Generative AI workflows.
+- � I've built everything from intelligent "prompt-to-software" platforms (**AppForge**) to lightning-fast real-time dashboards (**Sportz**) and heavy-duty scalable backends (**StreamMart**).
+- 🧠 I'm a huge nerd at heart for **Data Structures & Algorithms** and I genuinely enjoy the thrill of **Competitive Programming** (C++).
+- ⚡ Always exploring what's next—whether that's orchestrating Kafka clusters, wrangling Kubernetes pods, or just geeking out over fresh web tech!
 
 ## 💻 Tech Stack
 - **Languages:** C++, JavaScript, TypeScript, Python  
