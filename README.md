@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/vpn-cli">
+  <a href="https://linkedin.com/in/vpnk2003">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/vpn-cli">
@@ -26,11 +26,6 @@
   </a>
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vpn-cli&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpn-cli&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
-</div>
 
 <div align="center">
   <picture>
