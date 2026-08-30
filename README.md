@@ -6,11 +6,11 @@
 </picture>
 
 ## 👨‍💻 About Me
-- � Hey! I'm a software developer who loves turning complex problems into elegant, user-friendly solutions.
-- 🛠️ When I'm not obsessing over crafting the perfect Next.js frontend, you'll probably find me knee-deep in distributed microservices or fine-tuning Generative AI workflows.
-- � I've built everything from intelligent "prompt-to-software" platforms (**AppForge**) to lightning-fast real-time dashboards (**Sportz**) and heavy-duty scalable backends (**StreamMart**).
-- 🧠 I'm a huge nerd at heart for **Data Structures & Algorithms** and I genuinely enjoy the thrill of **Competitive Programming** (C++).
-- ⚡ Always exploring what's next—whether that's orchestrating Kafka clusters, wrangling Kubernetes pods, or just geeking out over fresh web tech!
+- Hey! I'm a software developer focused on turning complex problems into elegant solutions.
+- When I'm not crafting a Next.js frontend, I'm usually building distributed microservices or fine-tuning AI workflows.
+- I've built everything from generative AI platforms (**AppForge**) to real-time dashboards and scalable backends (**StreamMart**).
+- I have a strong foundation in **Data Structures & Algorithms** and deeply enjoy **Competitive Programming** (C++).
+- Off the clock, I explore fresh tech like Kafka and Kubernetes—and I also occasionally like to draw!
 
 ## 💻 Tech Stack
 - **Languages:** C++, JavaScript, TypeScript, Python  
