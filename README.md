@@ -30,7 +30,7 @@
 </div>
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294015-46f345bd-cbab-47f9-8da3-5cf39f863266.gif" width="35px"> Let's Connect
+## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35px"> Let's Connect
 I'm always open to discussing new projects, exchanging ideas on system architecture, or just geeking out over tech. 
 Feel free to reach out to me at **[vipinkaushik20771041@gmail.com](mailto:vipinkaushik20771041@gmail.com)**!
 
