@@ -15,14 +15,14 @@
 </div>
 <br/>
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> About Me
 - Hey! I'm a software developer focused on turning complex problems into elegant solutions.
 - When I'm not crafting a Next.js frontend, I'm usually building distributed microservices.
 - I've built everything from generative AI platforms (**AppForge**) to real-time dashboards and scalable backends (**StreamMart**).
 - I have a strong foundation in **Data Structures & Algorithms** and enjoy **Competitive Programming** (C++).
 - Off the clock, I explore fresh tech like Kafka and Kubernetes—and I also occasionally like to draw!
 
-## 💻 Tech Stack
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="35px"> Tech Stack
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,react,nextjs,tailwind,nodejs,postgres,supabase,redis,docker,kubernetes,kafka,githubactions&theme=dark" alt="Skill Icons" />
@@ -30,7 +30,7 @@
 </div>
 
 
-## 📫 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Envelope.webp" width="35px"> Let's Connect
 I'm always open to discussing new projects, exchanging ideas on system architecture, or just geeking out over tech. 
 Feel free to reach out to me at **[vipinkaushik20771041@gmail.com](mailto:vipinkaushik20771041@gmail.com)**!
 
