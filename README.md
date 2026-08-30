@@ -9,6 +9,9 @@
   <a href="https://github.com/vpn-cli">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
+  <a href="mailto:vipinkaushik20771041@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
 </div>
 <br/>
 
@@ -26,6 +29,12 @@
   </a>
 </div>
 
+
+## 📫 Let's Connect
+I'm always open to discussing new projects, exchanging ideas on system architecture, or just geeking out over tech. 
+Feel free to reach out to me at **[vipinkaushik20771041@gmail.com](mailto:vipinkaushik20771041@gmail.com)**!
+
+<br/>
 
 <div align="center">
   <picture>
