@@ -25,11 +25,11 @@
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="35px"> Tech Stack
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,ts,gsap,react,nextjs,tailwind,nodejs,postgres,supabase,redis,docker,kubernetes,kafka,githubactions&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,ts,aws,react,nextjs,tailwind,nodejs,postgres,supabase,redis,docker,kubernetes,kafka,githubactions&theme=dark" alt="Skill Icons" />
   </a>
 </div>
 
-## <img src="assets/pikachu.gif" width="35px"> Let's Connect
+## <img src="https://raw.githubusercontent.com/vpn-cli/vpn-cli/main/assets/pikachu.gif" width="35px"> Let's Connect
 I'm always open to discussing new projects, exchanging ideas on system architecture, or just geeking out over tech. 
 Feel free to reach out to me at **[vipinkaushik20771041@gmail.com](mailto:vipinkaushik20771041@gmail.com)**!
 
