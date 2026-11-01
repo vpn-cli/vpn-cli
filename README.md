@@ -34,8 +34,8 @@ Feel free to reach out to me at **[vipinkaushik20771041@gmail.com](mailto:vipink
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="35px"> Listening
 
 <div align="center">
-  <a href="https://open.spotify.com/user/SPOTIFY_USER_ID">
-    <img src="https://VERCEL_PROJECT.vercel.app/api/now-playing" alt="What I'm listening to" width="420" />
+  <a href="https://open.spotify.com/user/13qqscd3aqk9zfjqz0huvrql7">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=13qqscd3aqk9zfjqz0huvrql7&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Now Playing" />
   </a>
 </div>
 
