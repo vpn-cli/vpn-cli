@@ -1,16 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Vipin+Kaushik;Full-stack+%C2%B7+real-time+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Software+Developer;Building+AppForge+&+StreamMart;C%2B%2B+Problem+Solver;AI+%26+Microservices+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <!--
-  <a href="TODO_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
-  </a>
-  <a href="TODO_RESUME_URL">
-    <img src="https://img.shields.io/badge/Resume-4B5563?style=for-the-badge&logo=readme&logoColor=white" alt="Resume Badge"/>
-  </a>
-  -->
   <a href="https://linkedin.com/in/vpnk2003">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -20,44 +12,32 @@
 </div>
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="30px"> Work
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
+- I build full-stack web apps and the backend systems behind them, mostly with Next.js, Node.js and PostgreSQL.
+- When I'm not crafting a Next.js frontend, I'm usually building distributed microservices.
+- I've built everything from generative AI platforms ([**AppForge**](https://github.com/vpn-cli/appforge)) to real-time dashboards and scalable backends ([**StreamMart**](https://github.com/vpn-cli/StreamMart)).
+- Right now I'm going deeper on Kafka and Kubernetes, and when I'm away from the keyboard, I draw.
 
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| [**AppForge**](https://github.com/vpn-cli/appforge) ([live](https://appforge-studios.vercel.app/)) <!-- TODO: AppForge impact metric (e.g. sub-1.2s generation latency, user count) --> | Generative platform that turns natural language prompts into React applications and provisions PostgreSQL schemas on the fly. | Next.js, TypeScript, Supabase, Redis, Kafka |
-| [**StreamMart**](https://github.com/vpn-cli/StreamMart) <!-- TODO: StreamMart impact metric (e.g. events/sec handled, benchmark latency) --> | Event-driven e-commerce backend with decoupled order and payment microservices using Kafka and the transactional outbox pattern. | Node.js, Express, Kafka, PostgreSQL, Docker, Kubernetes |
-| [**Sportz**](https://github.com/vpn-cli/sockets) ([live](https://sportz-rho.vercel.app)) <!-- TODO: Sportz impact metric (e.g. broadcast latency, concurrent WebSocket connections) --> | Live sports dashboard streaming real-time match events and play-by-play commentary over persistent WebSocket connections. | React, TypeScript, Node.js, WebSockets, PostgreSQL |
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px"> About
-
-- On the backend, I focus on distributed systems and real-time data flow, particularly event-driven architectures with Kafka and WebSocket streaming.
-- I spend a lot of time thinking about database schema design in PostgreSQL and how services isolate failure.
-- Outside of engineering, I draw.
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="30px"> Now
-
-- Building: My personal portfolio <!-- TODO: link when live -->
-- Learning: Kafka partitioning and Kubernetes deployment patterns for StreamMart <!-- TODO: confirm learning focus -->
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30px"> Tech Stack
-
+## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="35px"> Tech Stack
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,ts,aws,react,nextjs,tailwind,nodejs,express,postgres,supabase,redis,docker,kafka,githubactions&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,ts,aws,react,nextjs,tailwind,nodejs,postgres,supabase,redis,docker,kubernetes,kafka,githubactions&theme=dark" alt="Skill Icons" />
   </a>
 </div>
 
-Currently exploring: Kubernetes
+## <img src="https://raw.githubusercontent.com/vpn-cli/vpn-cli/main/assets/pika.gif" width="35px"> Let's Connect
+I'm always open to discussing new projects, exchanging ideas on system architecture, or just geeking out over tech. 
+Feel free to reach out to me at **[vipinkaushik20771041@gmail.com](mailto:vipinkaushik20771041@gmail.com)**!
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px"> Let's Connect
+<br/>
 
-I'm always open to discussing new projects, exchanging ideas on system architecture, or just geeking out over tech.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="35px"> Listening
 
-<!--
-## Listening
-
-<a href="https://www.last.fm/user/TODO"><img src="TODO_CARD_URL" alt="What I'm listening to" width="400" /></a>
--->
+<div align="center">
+  <a href="https://open.spotify.com/user/SPOTIFY_USER_ID">
+    <img src="https://VERCEL_PROJECT.vercel.app/api/now-playing" alt="What I'm listening to" width="420" />
+  </a>
+</div>
 
 <br/>
 
