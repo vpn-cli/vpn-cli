@@ -1,37 +1,77 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Software+Developer;Building+AppForge+&+StreamMart;C%2B%2B+Problem+Solver;AI+%26+Microservices+Enthusiast" alt="Typing SVG" />
-</div>
+# Vipin Kaushik
 
-<div align="center">
-  <a href="https://linkedin.com/in/vpnk2003">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/vpn-cli">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="mailto:vipinkaushik20771041@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</div>
-<br/>
+I build full-stack web applications and the backend systems behind them, mostly with Next.js, Node.js, and PostgreSQL.
 
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
-- Hey! I'm a software developer focused on turning complex problems into elegant solutions.
-- When I'm not crafting a Next.js frontend, I'm usually building distributed microservices.
-- I've built everything from generative AI platforms (**AppForge**) to real-time dashboards and scalable backends (**StreamMart**).
-- I have a strong foundation in **Data Structures & Algorithms** and enjoy **Competitive Programming** (C++).
-- Off the clock, I explore fresh tech like Kafka and Kubernetes—and I also occasionally like to draw!
+<!-- TODO: e.g. Looking for SDE internships starting 2027 -->
 
-## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="35px"> Tech Stack
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,ts,aws,react,nextjs,tailwind,nodejs,postgres,supabase,redis,docker,kubernetes,kafka,githubactions&theme=dark" alt="Skill Icons" />
-  </a>
-</div>
+[Portfolio](<!-- TODO: add portfolio link when live -->) · [Resume](<!-- TODO: add resume link -->) · [LinkedIn](https://linkedin.com/in/vpnk2003) · [Email](mailto:vipinkaushik20771041@gmail.com)
 
-## <img src="https://raw.githubusercontent.com/vpn-cli/vpn-cli/main/assets/pika.gif" width="35px"> Let's Connect
-I'm always open to discussing new projects, exchanging ideas on system architecture, or just geeking out over tech. 
-Feel free to reach out to me at **[vipinkaushik20771041@gmail.com](mailto:vipinkaushik20771041@gmail.com)**!
+## Work
+
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| [**AppForge**](https://github.com/vpn-cli/appforge) ([live](https://appforge-studios.vercel.app/)) <!-- TODO: AppForge impact metric (e.g. sub-1.2s generation latency, user count) --> | Generative platform that turns natural language prompts into React applications and provisions PostgreSQL schemas on the fly. | Next.js, TypeScript, Supabase, Redis, Kafka |
+| [**StreamMart**](https://github.com/vpn-cli/StreamMart) <!-- TODO: StreamMart impact metric (e.g. events/sec handled, benchmark latency) --> | Event-driven e-commerce backend with decoupled order and payment microservices using Kafka and the transactional outbox pattern. | Node.js, Express, Apache Kafka, PostgreSQL, Docker, Kubernetes |
+| [**Sportz**](https://github.com/vpn-cli/sockets) ([live](https://sportz-rho.vercel.app)) <!-- TODO: Sportz impact metric (e.g. broadcast latency, concurrent WebSocket connections) --> | Live sports dashboard streaming real-time match events and play-by-play commentary over persistent WebSocket connections. | React, TypeScript, Node.js, WebSockets, PostgreSQL |
+
+## About
+
+- I build full-stack web applications and backend services, mostly using Next.js, Node.js, and TypeScript.
+- On the backend, I focus on distributed systems and real-time data flow, particularly event-driven architectures with Kafka and WebSocket streaming.
+- I spend a lot of time thinking about database schema design in PostgreSQL and how services isolate failure.
+- Outside of engineering, I draw.
+
+## Now
+
+- Building: My personal portfolio <!-- TODO: link when live -->
+- Learning: Kafka partitioning and Kubernetes deployment patterns for StreamMart <!-- TODO: confirm learning focus -->
+- Next: <!-- TODO: Next project or goal -->
+
+## Stack
+
+Languages
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,js,ts&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,js,ts&theme=light" />
+  <img alt="Languages" src="https://skillicons.dev/icons?i=cpp,js,ts&theme=dark" />
+</picture>
+
+Frontend
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light" />
+  <img alt="Frontend" src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+</picture>
+
+Backend and data
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,postgres,supabase,redis&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,postgres,supabase,redis&theme=light" />
+  <img alt="Backend and data" src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,redis&theme=dark" />
+</picture>
+
+Infra
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,aws,githubactions&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,aws,githubactions&theme=light" />
+  <img alt="Infra" src="https://skillicons.dev/icons?i=docker,aws,githubactions&theme=dark" />
+</picture>
+
+Exploring
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kafka,kubernetes&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kafka,kubernetes&theme=light" />
+  <img alt="Exploring" src="https://skillicons.dev/icons?i=kafka,kubernetes&theme=dark" />
+</picture>
+
+## Listening
+
+<!-- <a href="https://www.last.fm/user/TODO"><img src="TODO_CARD_URL" alt="What I'm listening to" width="400" /></a> -->
 
 <br/>
 
