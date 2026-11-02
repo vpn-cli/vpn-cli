@@ -35,7 +35,10 @@ Feel free to reach out to me at **[vipinkaushik20771041@gmail.com](mailto:vipink
 
 <div align="center">
   <a href="https://open.spotify.com/user/13qqscd3aqk9zfjqz0huvrql7">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=13qqscd3aqk9zfjqz0huvrql7&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=a371f7" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=13qqscd3aqk9zfjqz0huvrql7&cover_image=true&theme=novatorem&show_offline=false&background_color=161b22&interchange=false&bar_color=a371f7" height="100" alt="Spotify Now Playing" />
+  </a>
+  <a href="https://github.com/vpn-cli">
+    <img src="https://streak-stats.demolab.com?user=vpn-cli&theme=dark&background=161b22&border=30363d&stroke=a371f7&ring=a371f7&fire=a371f7&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&currStreakLabel=a371f7" height="100" alt="GitHub Streak" />
   </a>
 </div>
 
